@@ -1,0 +1,74 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner-container{
+    background-color: lightgreen;
+}
+
+.navbar-container{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.col-9{
+    background-color: rgb(180, 168, 170);
+    color: rgb(83, 83, 148);
+}
+
+.about-container{
+    background-color: aqua;
+}
+
+.education-container{
+    background-color: aquamarine;
+}
+
+.circle{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: blue;
+}
+
+.card{
+    background-color: aqua;
+}
+
+.project-container{
+    background-color: lightcoral;
+}
+
+.portfolio-container{
+    background-color: lightgreen;
+}
+
+.gallery-container{
+    background-color: aquamarine;
+}
+
+.contact-container{
+    background-color: lightsalmon;
+}
+
+.sign-up{
+    color: aqua;
+}
+
+.formbg{
+    background-color: aqua;
+}
+
+.hover-signup{
+    background-color: lightgreen;
+    color: black;
+}
+.hover-signup:hover{
+    background-color: brown;
+    color: white;
+}
+
+.footer-container{
+    background-color: lightgreen;
+}
